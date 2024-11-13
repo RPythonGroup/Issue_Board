@@ -1,0 +1,27 @@
+---
+title: "Utterance" 
+description:  "Github 페이지에서 issue를 이용한 댓글기능 구현 tool"
+author: "RPythonStudyGroup feat. ChatGPT"
+date: "2024-11-18"
+date-modified: "2024-11-18"
+categories:
+  - Quarto
+  - website
+  - hands-on
+  - Utterance
+---
+
+::: {.callout-note title="1단계: `새로운 저장소 만들기" collapse="true" appearance="minimal"}
+-   댓글을 저장할 원격저장소를 만듭니다.
+    -   댓글기능이 구현될 저장서가 아님을 유의해야 합니다.
+:::
+
+```{r remote_repository, eval=FALSE, filename="New Repository Name"}
+Utterance
+```
+
+::: {.callout-note title="2단계: `utterance` 설치" collapse="true" appearance="minimal"}
+-   아래의 링크에서 설치
+:::
+
+-   <https://utteranc.es/>

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Utterance",
+    "section": "",
+    "text": "1단계: `새로운 저장소 만들기\n\n\n\n\n\n\n댓글을 저장할 원격저장소를 만듭니다.\n\n댓글기능이 구현될 저장서가 아님을 유의해야 합니다.\n\n\n\n\n\n\n\n\nNew Repository Name\n\nUtterance\n\n\n\n\n\n\n\n\n2단계: utterance 설치\n\n\n\n\n\n\n아래의 링크에서 설치\n\n\n\n\n\nhttps://utteranc.es/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
